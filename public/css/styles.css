@@ -1,0 +1,14 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.center{
+  padding-left:auto;
+  padding-right:auto;
+}
